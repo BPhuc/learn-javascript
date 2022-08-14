@@ -10,3 +10,4 @@ Khi người dụng nhập giá trị vào 2 ô Input và sau đó nhấn nút B
 vd: ô A nhập 123,
     ô B nhập 345,
     nhấn nút Button: ô A có giá trị: 345, ô B có giá trị 123.
+    gợi ý: cú pháp để gán giá trị cho ô Input: [element].value = '';
